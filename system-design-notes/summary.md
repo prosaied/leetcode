@@ -214,3 +214,13 @@ Eventual consistency: this is a specific form of weak consistency. Given enough 
 updates are propagated, and all replicas are consistent.
 
 
+vector clock for inconsistency solving
+Bloom filter
+SSTables
+Twitter’s unique ID generation system called “snowflake” 
+
+
+"https://www.allthingsdistributed.com/2026/02/a-chat-with-byron-cook-on-automated-reasoning-and-trust-in-ai-systems.html"
+
+
+URL Frontier page 136
